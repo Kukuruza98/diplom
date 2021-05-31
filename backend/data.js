@@ -1,5 +1,5 @@
 const data = {
-    product: [
+    products: [
         {
             _id: '0',
             name: 'Ноутбук ASUS X515MA-BR062',
